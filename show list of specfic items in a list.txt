@@ -1,0 +1,20 @@
+#program_format = [lang for lang in download_path('C:\\Users\\flame\\Downloads') 
+		#if lang.endswith('.py') or lang.endswith('.java')]
+		#source = "C:\\Users\\flame\\Downloads\\Test.java"
+		#source = os.listdir()
+
+	#if os.path.exists('Other_Files') is False:
+		#extra_files = os.rmdir('C:\\Users\\flame\\Downloads\\Extra_Files')
+	#extra_files = os.mkdir('C:\\Users\\flame\\Downloads\\Extra_Files')
+
+#for py_files in download_path('C:\\Users\\flame\\Downloads'):
+			#logging.debug(py_files)
+			#if py_files.endswith('.py'):
+				#shutil.move(py_files, py_destination)
+
+#for java_files in download_path('C:\\Users\\flame\\Downloads'):
+			#logging.debug(java_files)
+			#if java_files.endswith('.java'):
+				#logging.debug(java_files)
+				#shutil.move(java_files, java_destination)
+
